@@ -55,6 +55,6 @@ https://github.com/Joseph-Odhiambo/Piza-pap
 If you have any question or contributions that would better this app, please email me at [josephkdo@gmail.com]
 
 ## License
-* *MIT License:*
-* Copyright (c) 2020 **Joseph Odhiambo**
-
+> *MIT License:*
+> {Determine the license under which this application can be used.  See below for more details on licensing.}*[LICENSE](LICENSE)
+> Copyright &copy; 2020  *Joe-Kicker*
