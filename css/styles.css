@@ -191,3 +191,10 @@ td,th{
 #contactdetails h2{
     text-align: left;
 }
+
+/* footer section */
+.footer{
+    padding-top: 10px;
+    background-color: rgb(10, 9, 9);
+    width: 100%;
+  }
