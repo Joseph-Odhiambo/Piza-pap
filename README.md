@@ -21,7 +21,7 @@ https://github.com/Joseph-Odhiambo/Piza-pap
 
 * ```cd Pizza-pap```
 
-* ```code .``` or ````atom .``` depending on the text editor of your choise.
+* ```code .``` or ```atom .``` depending on the text editor of your choise.
 
 ## Technologies Used
 
