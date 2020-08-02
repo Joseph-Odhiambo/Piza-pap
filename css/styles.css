@@ -187,7 +187,7 @@ td,th{
 #contact{
     color: black;
     background-color: rgb(153, 102, 201);
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 #contactdetails h2{
     text-align: left;
@@ -249,4 +249,12 @@ td,th{
       margin-left: 10%;
     }
   
+}
+/* upward arrow */
+.arrowup{
+    position: relative;
+    left: 50%;
+    margin-left:-20px;
+    height: 70px;
+    width: 100px;
 }
