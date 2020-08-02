@@ -23,3 +23,43 @@ nav .navbar{
     font-size: 20px;
     font-weight: 700;
 }
+
+/* styling landing page */
+.landing{
+    background-image: url("../images/sec/b1.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    padding-bottom: 20px;
+    position: relative;
+    overflow-x: hidden;
+}
+.pi{color: teal;}
+.zz{color: yellowgreen;}
+.pap{color: turquoise;}
+.text a{
+    font-size: 20px;
+    font-weight: 700;
+}
+h1 {
+    font-family: 'Kalam', cursive;
+    letter-spacing: 8px;
+    font-weight: bolder;
+    font-size: 60px;
+    text-shadow: 2px 2px 5px rgb(8, 156, 5);
+}
+h5 {
+    letter-spacing: 3px;
+}
+.text h5{
+    font-size: 25px;
+    padding: 30px;
+}
+#head{
+    padding-top: 10%;
+}
+  /* button */
+.button{
+    border-radius: 20px;
+}
