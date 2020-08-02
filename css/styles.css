@@ -54,15 +54,16 @@ h5 {
 }
 .text h5{
     font-size: 25px;
-    padding: 30px;
+    padding: 20px;
 }
 #head{
     padding-top: 10%;
 }
   /* button */
 .button{
-    border-radius: 20px;
+    border-radius: 40px;
 }
+
 /* carousel card section */
 .card-title{
     text-align: center;
@@ -91,6 +92,7 @@ h5 {
     top: 90%;
     margin-left:-20px;
     margin-top: 30px;
+    margin-bottom: 20px;
 }
   
 .bounce {
@@ -187,7 +189,7 @@ td,th{
 #contact{
     color: black;
     background-color: rgb(153, 102, 201);
-    padding-bottom: 40px;
+    padding-bottom: 20px;
 }
 #contactdetails h2{
     text-align: left;
@@ -249,4 +251,12 @@ td,th{
       margin-left: 10%;
     }
   
+}
+/* upward arrow */
+.arrowup{
+    position: relative;
+    left: 50%;
+    margin-left:-20px;
+    height: 70px;
+    width: 100px;
 }
