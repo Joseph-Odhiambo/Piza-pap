@@ -109,3 +109,25 @@ h5 {
       transform: translateY(-20px);
     }
 }
+
+/* varieties of pizza */
+.order h2{
+    text-align: center;
+}
+.order{
+    background-attachment: fixed;
+    background-image: url("../images/sec/b3.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+.order-overlay{
+    background-color: rgba(0, 0, 0, 0.8);
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-bottom: 20px;
+    padding-left: 6%;
+}
