@@ -5,7 +5,7 @@
 
 ## Description
 
-This is a web application for Pizza Deliciosa which is a pizza selling venture, that shows details about the services and diffent pizza they sell, their menu and also allows customers to order online for their preferred pizza depending on size, crust they need and also allows them to input a location which they would love the piza to be delivered to. 
+This is a web application for Pizza Pap which is a pizza selling venture, that shows details about the services and different pizza they sell, their menu and also allows customers to order online for their preferred pizza depending on size, crust they need and also allows them to input a location which they would love the pizza to be delivered to. 
 
 ## Screenshot
 <img src="https://github.com/Joseph-Odhiambo/Piza-pap/blob/gh-pages/images/screenchot/Screenshot%20from%202020-08-02%2022-56-31.png" width="900px" height="440px">
