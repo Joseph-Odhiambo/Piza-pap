@@ -187,6 +187,7 @@ td,th{
 #contact{
     color: black;
     background-color: rgb(153, 102, 201);
+    padding-bottom: 40px;
 }
 #contactdetails h2{
     text-align: left;
