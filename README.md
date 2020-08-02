@@ -11,7 +11,7 @@ This is a web application for Pizza Deliciosa which is a pizza selling venture, 
 <img src="" width="900px" height="440px">
 
 ## Live Page 
-https://Owiti-charles.github.io/Pizza-Deliciosa 
+https://github.com/Joseph-Odhiambo/Piza-pap
 
 
 ## Installation / Setup instruction
@@ -55,5 +55,5 @@ If you have any question or contributions that would better this app, please ema
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Joseph Odhiambo**
+* Copyright (c) 2020 **Joseph Odhiambo**
 
