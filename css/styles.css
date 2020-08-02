@@ -151,7 +151,7 @@ td,th{
     color: white;
 }
 .choise h2{
-    color:orange;
+    color:rgb(54, 101, 231);
     text-align: left;
 }
 #your-orders{
@@ -177,7 +177,7 @@ td,th{
     font-size: 22px;
     padding-right: 8%;
     padding-left: 5%;
-    color: #ffa500;
+    color: #22c022;
 }
 
 /* how to reach us and location section */
