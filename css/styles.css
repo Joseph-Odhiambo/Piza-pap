@@ -179,3 +179,15 @@ td,th{
     padding-left: 5%;
     color: #ffa500;
 }
+
+/* how to reach us and location section */
+#contact h2{
+    text-align: center;
+}
+#contact{
+    color: black;
+    background-color: rgb(153, 102, 201);
+}
+#contactdetails h2{
+    text-align: left;
+}
