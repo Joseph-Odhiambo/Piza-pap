@@ -131,3 +131,51 @@ h5 {
     padding-bottom: 20px;
     padding-left: 6%;
 }
+
+/* make an order section */
+.choise{
+    display: none;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.deliver{
+    display: none;
+}
+.delivery{
+    display: none;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+td,th{
+    font-size: 20px;
+    color: white;
+}
+.choise h2{
+    color:orange;
+    text-align: left;
+}
+#your-orders{
+    color: white;
+    font-size: 30px;
+}
+#addedprice{
+    display: none;
+}
+#finallmessage{
+    display: none;
+    padding-top: 10%;
+    padding-right: 10%;
+    padding-left: 10%;
+    font-size: 28px;
+}
+#regards{
+    text-align: center;
+    color: aliceblue;
+}
+#information{
+    padding-top: 5%;
+    font-size: 22px;
+    padding-right: 8%;
+    padding-left: 5%;
+    color: #ffa500;
+}
