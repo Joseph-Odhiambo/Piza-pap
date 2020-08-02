@@ -25,11 +25,12 @@ https://github.com/Joseph-Odhiambo/Piza-pap
 
 ## Technologies Used
 
-* [HTML5](https://github.com/topics/html5)
-* [CSS](https://github.com/topics/css3)
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [CSS](https://kristofferandreasen.github.io/wickedCSS/)
 * markdown
-* [Bootstrap](https://github.com/topics/bootstrap)
-* [Javascript](https://github.com/topics/javascript)
+* [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+* [jQuery](https://api.jquery.com/)
+* [JavaScript](https://devdocs.io/javascript/)
 
 
 ## BDD
